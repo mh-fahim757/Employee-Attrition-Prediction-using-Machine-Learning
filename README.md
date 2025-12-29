@@ -50,10 +50,4 @@ The models were evaluated using:
 
 *Note: The Neural Network generally showed the highest AUC score (~0.85+).*
 
----
-
-## 🚀 How to Use
-1. Clone the repository:
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-
 
