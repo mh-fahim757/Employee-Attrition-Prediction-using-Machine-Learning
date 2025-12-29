@@ -54,9 +54,6 @@ The models were evaluated using:
 
 ## 🚀 How to Use
 1. Clone the repository:
-   ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
 
-**Would you like me to write the professional LinkedIn post now so you can share the link once it's saved?**
 
-```
